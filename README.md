@@ -1,4 +1,4 @@
-### All Epita Projects
+# All Epita Projects
 
 I'll talk here about all the projects I have done in my 3rd year at EPITA (1st engineer year)
 
@@ -6,10 +6,10 @@ I'll talk here about all the projects I have done in my 3rd year at EPITA (1st e
 The "piscine" is a period of two weeks at my school where you work from 7/8 AM to midnight every day during two weeks with different projects and exercises to do.
 We use the C language during this period.
 
-# Fnmatch (C)
+### Fnmatch (C)
 Fnmatch is a project during the piscine where you have to reprogram the a simplified version of the fnmatch(3) command (man 3 fnmatch on a linux shell for more informations) and you have approximately 26 hours to do it (bed time exluded 😎).
 
-# Tinyprintf (C)
+### Tinyprintf (C)
 Tinyprintf is a very short project (8 hours) where you have to reprogram a simplified version of the printf(3) command (man 3 printf) with variable expansion (%d for example)
 
 ## Minimake (C)
@@ -36,4 +36,4 @@ Tinyprintf is a very short project (8 hours) where you have to reprogram a simpl
 ## JWS workshop (JAVA)
 1 week workshop, I had to implement a bomberman but only the backend part.
 
-# Updated : 10/02/2022
+### Updated : 10/02/2022
