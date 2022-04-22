@@ -36,4 +36,10 @@ Tinyprintf is a very short project (8 hours) where you have to reprogram a simpl
 ## JWS workshop (JAVA)
 1 week workshop, I had to implement a bomberman but only the backend part.
 
-### Updated : 10/02/2022
+## C++ workshop (C++)
+1 week worshop with c++ exercises and a project rush the last day. For the rush, I had to implement a Rubik's Cube and a solver.
+
+## Tiger Compiler (C++)
+7 weeks project, we (group of four) had to implement a compiler for the Tiger language.
+
+### Updated : 22/04/2022
