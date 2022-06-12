@@ -27,7 +27,7 @@ Tinyprintf is a very short project (8 hours) where you have to reprogram a simpl
 ## 42sh (C)
 1 month project, we (group of four) had to implement a POSIX shell.
 
-## Sql workshop (SQL)
+## SQL workshop (SQL)
 1 week workshop with sql exercises.
 
 ## Java workshop (JAVA)
@@ -42,4 +42,7 @@ Tinyprintf is a very short project (8 hours) where you have to reprogram a simpl
 ## Tiger Compiler (C++)
 7 weeks project, we (group of four) had to implement a compiler for the Tiger language.
 
-### Updated : 22/04/2022
+## JavaScript workshop (JavaScript)
+1 week worshop with JS exercises and a project rush the last 3 days. For the rush, I had to do scraping on an e-commerce webpage by limiting usage in key resources like request number, time and bandwidth as I was "hacking" the webpage.
+
+### Updated : 12/06/2022
