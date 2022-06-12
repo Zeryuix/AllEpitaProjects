@@ -4,10 +4,10 @@ I'll talk here about all the projects I have done in my 3rd year at EPITA (1st e
 
 ## Piscine (C)
 The "piscine" is a period of two weeks at my school where you work from 7/8 AM to midnight every day during two weeks with different projects and exercises to do.
-We use the C language during this period.
+We used the C language during this period.
 
 ### Fnmatch (C)
-Fnmatch is a project during the piscine where you have to reprogram the a simplified version of the fnmatch(3) command (man 3 fnmatch on a linux shell for more informations) and you have approximately 26 hours to do it (bed time exluded 😎).
+Fnmatch is a project during the piscine where you have to reprogram the a simplified version of the fnmatch(3) command and you have approximately 26 hours to do it (bed time exluded 😎).
 
 ### Tinyprintf (C)
 Tinyprintf is a very short project (8 hours) where you have to reprogram a simplified version of the printf(3) command (man 3 printf) with variable expansion (%d for example)
@@ -28,16 +28,16 @@ Tinyprintf is a very short project (8 hours) where you have to reprogram a simpl
 1 month project, we (group of four) had to implement a POSIX shell.
 
 ## SQL workshop (SQL)
-1 week workshop with sql exercises.
+1 week workshop with SQL exercises.
 
 ## Java workshop (JAVA)
 1 week workshop with java exercises, one exercises per day, I had to submit the exercise of the day before midnight.
 
 ## JWS workshop (JAVA)
-1 week workshop, I had to implement a bomberman but only the backend part.
+1 week workshop, I had to implement a multiplayer bomberman but only the backend part.
 
 ## C++ workshop (C++)
-1 week worshop with c++ exercises and a project rush the last day. For the rush, I had to implement a Rubik's Cube and a solver.
+1 week workshop with c++ exercises and a project rush the last day. For the rush, I had to implement a Rubik's Cube and a solver.
 
 ## Tiger Compiler (C++)
 7 weeks project, we (group of four) had to implement a compiler for the Tiger language.
