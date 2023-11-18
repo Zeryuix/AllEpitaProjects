@@ -9,6 +9,7 @@ In this section, I will talk about the projects done in the MTI major (Multimedi
 ## PLIC (Flutter, Figma, MS Project, GitLab)
 
 PLIC is the biggest project I've worked on (10 months project). We worked in agile with 3 weeks sprints.
+
 Objective: to work in teams of 4 to create a web and mobile application to help EPITA students in their first year of engineering studies. The application offers courses and exercises, but its innovation is based on the community aspect: students can carry out exercises/courses together in a room. Students can add exercises and courses using their phone: an OCR then an AI summarizes their course to make an index card. A StackOverflow-style messaging and question/answer system is also integrated. 
 Role: mobile front-end development and application design
 
